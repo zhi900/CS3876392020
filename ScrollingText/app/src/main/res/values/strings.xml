@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Scrolling Text</string>
+    <string name="article_heading">George Floyd</string>
+    <string name="article_subheading">Call for Change</string>
+    <string name="article_text">
+        For the article, to go https://www.nytimes.com/2020/06/04/us/floyd-memorial-funeral
+
+        \n \n MINNEAPOLIS — Hundreds of people filed into a Minneapolis chapel on Thursday to remember George Floyd, the man whose death at the hands of the police opened a nationwide flood of anguish, protest and demands for change in American policing.
+
+By turns somber and defiant, the mourners celebrated Mr. Floyd as a friend and father and uncle to those closest to him, but also as a victim of racial injustice whose killing had drawn a legion of people to the streets.
+
+“George Floyd’s story has been the story of black folks,” the Rev. Al Sharpton said in a eulogy of Mr. Floyd, who died after a white police officer held him down on a Minneapolis street with a knee to Mr. Floyd’s neck for nearly nine minutes. “Because ever since 401 years ago, the reason we could never be who we wanted and dreamed of being is you kept your knee on our neck.”
+
+The gathering, the first of several memorials for Mr. Floyd in different cities in the coming days, drew Mr. Floyd’s family members, political leaders, civil rights leaders and celebrities — many in masks out of concern for the coronavirus.
+
+“We were smarter than the underfunded schools you put us in,” Mr. Sharpton said. “But you had your knee on our neck. We could run corporations and not hustle in the streets, but you had your knee on our neck. We had creative skills, we could do whatever anybody else could do. But we couldn’t get your knee off our neck.”\n
+        “It’s time to stand up and say, ‘Get your knee off our necks,’ ” Mr. Sharpton went on, as raucous applause broke out in the university sanctuary where Mr. Floyd’s body rested inside a closed, shiny copper coffin.
+
+All the while, marches were taking place around the country on Thursday, as thousands of people in cities far from Minneapolis poured into parks and streets calling for an end to systemic racism in the justice system on a 10th day of protests. Demonstrators marched in cities including New York, Nashville, Seattle and Santa Monica, Calif. And around the country, people watched the eulogy to Mr. Floyd on television and online.
+
+The two-hour service served as a call for activism after more than a week of upheaval prompted by the video of the police officer kneeling on Mr. Floyd’s neck as he lay face down and handcuffed on the pavement, saying “I can’t breathe.”
+
+In a service punctuated by gospel music, Mr. Floyd’s relatives told personal stories, of the man they knew as Perry, and whom people in the neighborhood had called “Big Floyd.” He had a gift at making people feel welcome. His brother Philonise Floyd called him a “general,” someone who always had a line of friends behind him.
+    </string>
+    <string name="add_comment">Add Comment</string>
+</resources>
